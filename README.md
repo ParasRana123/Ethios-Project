@@ -1,10 +1,10 @@
-#TRUMIO Chat Bot        
+# TRUMIO Chat Bot     
+
         
-FEATURES:       
-         
--[Chat with LLM]          
--[Summarization of URL pdf]       
--[ML model evaluation and pdf generation]      
--[Code problem solver]       
--[Web Scraping]       
-      
+## FEATURES:       
+
++ Chat with LLM
++ Summarisation Of URL and PDF
++ ML Model Selection and PDF Generation
++ Code Problem Solver
++ Web Scraping and Searching for a specific text or pattern    
