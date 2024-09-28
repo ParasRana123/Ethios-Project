@@ -1,7 +1,7 @@
 # TRUMIO Chat Bot     
-
+The Trumio Chatbot is an application that offers users with multiple functionalities as mentioned below. It is an application that reduces the need of the users to switch to different platforms or documents in order to perform various tasks. Also it ends the need of Manual Intervention to train a model and generate PDF containing various useful Insights.
         
-## FEATURES:       
+## FEATURES OF THE APP:       
 
 + Chat with LLM
 + Summarisation Of URL and PDF
