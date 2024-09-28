@@ -16,6 +16,6 @@
 3. Install all the libraries mentioned in the requirements.txt file with the command **pip install -r requirements.txt**
 4. Also install llama2 model on your local machine by writing the command **ollama run llama2**
 5. For using the code-problem solver funnctionality , go to your command promple and go to the loaction of your modelfile using the 'cd' command and then write **ollama create codeguru -f modelfile** and then **ollama run codeguru** this will run the model in background
-6. Open your terminal/command prompt from your project directory and run the file main.py by executing the command streamlit run main.py
+6. Open your terminal/command prompt from your project directory and run the file main.py by executing the command **streamlit run main.py**
 7. Go to your browser and type **http://192.168.174.134:8501**
 8. Hurray! That's it.
